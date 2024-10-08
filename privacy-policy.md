@@ -46,7 +46,7 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 ## Children
 
-The Application is **not directed towards individuals under the age of 13**, and the Service Provider does not knowingly collect data from children under this age. If a parent or guardian becomes aware that their child has provided personal information, please contact the Service Provider at [support@vanityaddress.cc](mailto:support@vanityaddress.cc) to have the information removed.
+The Application is **not directed towards individuals under the age of 18**, and the Service Provider does not knowingly collect data from children under this age. If a parent or guardian becomes aware that their child has provided personal information, please contact the Service Provider at [support@vanityaddress.cc](mailto:support@vanityaddress.cc) to have the information removed.
 
 ## Security
 
