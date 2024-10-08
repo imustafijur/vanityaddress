@@ -1,0 +1,2 @@
+# vanityaddress
+Vanity Address
