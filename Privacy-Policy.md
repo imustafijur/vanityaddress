@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**This privacy policy applies to the Lucky Address app (hereinafter referred to as "Application") for mobile devices. The Application was created by Crownplay Limited (hereinafter referred to as "Service Provider") as a Free service. This service is intended for use "AS IS."**
+**This privacy policy applies to the Vanity Address app (hereinafter referred to as "Application") for mobile devices. The Application was created by Crownplay Limited (hereinafter referred to as "Service Provider") as a Free service. This service is intended for use "AS IS."**
 
 ## Information Collection and Use
 
@@ -21,7 +21,7 @@ This information is collected solely for the functionality of the Application an
 
 ## Unique Features and Value
 
-Lucky Address allows users to create customizable cryptocurrency addresses with personalized prefixes or suffixes such as lucky numbers or symbols, providing a unique and memorable address format. This adds significant value compared to generic wallet address generators. The mnemonic phrase generated along with the address is stored securely on the user’s local device.
+Vanity Address allows users to create customizable cryptocurrency addresses with personalized prefixes or suffixes such as lucky numbers or symbols, providing a unique and memorable address format. This adds significant value compared to generic wallet address generators. The mnemonic phrase generated along with the address is stored securely on the user’s local device.
 
 ## Third-Party Services
 
@@ -42,11 +42,11 @@ You can stop all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you would like to delete any data you have provided, please contact **[support@luckyaddress.net](mailto:support@luckyaddress.net)**, and we will comply with your request within a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you would like to delete any data you have provided, please contact **[support@vanityaddress.cc](mailto:support@vanityaddress.cc)**, and we will comply with your request within a reasonable time.
 
 ## Children
 
-The Application is **not directed towards individuals under the age of 13**, and the Service Provider does not knowingly collect data from children under this age. If a parent or guardian becomes aware that their child has provided personal information, please contact the Service Provider at **[support@luckyaddress.net](mailto:support@luckyaddress.net)** to have the information removed.
+The Application is **not directed towards individuals under the age of 13**, and the Service Provider does not knowingly collect data from children under this age. If a parent or guardian becomes aware that their child has provided personal information, please contact the Service Provider at **[support@vanityaddress.cc](mailto:support@vanityaddress.cc)** to have the information removed.
 
 ## Security
 
@@ -64,4 +64,4 @@ By using the Application, you consent to the processing of your information as o
 
 ## Contact Us
 
-If you have any questions regarding privacy or data handling while using the Application, please contact us at **[support@luckyaddress.net](mailto:support@luckyaddress.net)**.
+If you have any questions regarding privacy or data handling while using the Application, please contact us at **[support@vanityaddress.cc](mailto:support@vanityaddress.cc)**.
